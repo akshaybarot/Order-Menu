@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+h1{
+  text-align: center;
+  background-color: red;
+  color: white;
+}
+.btn-primary{
+  align-content: right;
+  font-family: Century;
+}
+.div-2{
+  border: 2px solid yellow;
+}
+.container{
+  float: left;
+}
+ul li{
+  height: 60px;
+}
